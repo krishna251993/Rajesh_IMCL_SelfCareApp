@@ -1,0 +1,1407 @@
+2019-06-25 14:36:38,634 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-25 15:53:13,544 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-25 16:37:43,350 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-25 16:39:48,506 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-25 19:29:55,684 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-25 19:31:03,152 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-25 19:31:30,565 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - TimeOut:30
+2019-06-26 12:50:29,440 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-26 12:56:14,330 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-26 13:55:08,765 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-26 13:59:07,242 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-26 14:00:16,264 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user successfully logged in
+2019-06-26 14:00:36,711 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - TimeOut:30
+2019-06-27 11:52:56,899 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 11:53:33,042 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 14:12:48,860 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 14:13:59,551 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 14:17:44,071 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 14:18:24,810 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 14:25:01,081 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 14:25:51,504 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 14:40:39,583 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 14:41:26,969 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 14:43:30,490 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user successfully logged in
+2019-06-27 14:43:47,255 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - LCO Name:-Hi fr5125n
+2019-06-27 14:44:06,195 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - Monthly Cost:-? 1189.68
+2019-06-27 14:46:38,713 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 14:47:12,362 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 14:52:52,555 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 14:53:24,778 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 15:00:33,315 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 15:01:05,324 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 15:01:10,914 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the login Btn
+2019-06-27 15:01:21,803 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the Mobile Number
+2019-06-27 15:01:32,590 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the password
+2019-06-27 15:01:38,196 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the Login Btn
+2019-06-27 15:01:46,473 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user successfully logged in
+2019-06-27 15:01:47,026 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - LCO Name:-Hi fr5125n
+2019-06-27 15:01:48,179 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - Monthly Cost:-? 1189.68
+2019-06-27 15:01:48,642 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - Base Pack Expire on:-13-07-2019
+2019-06-27 15:01:48,643 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - TimeOut:30
+2019-06-27 19:18:28,083 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 19:20:33,290 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 19:21:11,904 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 19:21:21,859 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the login Btn
+2019-06-27 19:21:39,818 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the Mobile Number
+2019-06-27 19:21:57,616 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the password
+2019-06-27 19:22:10,591 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the Login Btn
+2019-06-27 19:24:53,181 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 19:25:31,261 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 19:25:43,874 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the login Btn
+2019-06-27 19:26:00,943 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the Mobile Number
+2019-06-27 19:26:17,612 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the password
+2019-06-27 19:26:32,491 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the Login Btn
+2019-06-27 19:29:30,205 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 19:30:12,764 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 19:30:28,399 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the login Btn
+2019-06-27 19:30:46,680 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the Mobile Number
+2019-06-27 19:31:06,294 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the password
+2019-06-27 19:31:34,479 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the Login Btn
+2019-06-27 19:32:55,986 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 19:36:55,230 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 19:37:38,426 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 19:37:57,728 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the login Btn
+2019-06-27 19:38:25,228 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the Mobile Number
+2019-06-27 19:38:57,646 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the password
+2019-06-27 19:39:20,644 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the Login Btn
+2019-06-27 19:39:54,910 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user successfully logged in
+2019-06-27 19:39:57,805 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - It's Lco customer
+2019-06-27 19:40:03,008 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - LCO Name:-Hi fr5125n
+2019-06-27 19:40:22,396 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - Monthly Cost:-? 1197.94
+2019-06-27 19:40:30,527 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - Base Pack Expire on:-13-07-2019
+2019-06-27 19:40:41,823 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - TimeOut:30
+2019-06-27 19:42:46,161 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-27 19:43:12,631 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-27 19:43:19,114 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the login Btn
+2019-06-27 19:43:29,664 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the Mobile Number
+2019-06-27 19:43:40,397 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the password
+2019-06-27 19:43:46,045 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the Login Btn
+2019-06-27 19:43:51,348 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user successfully logged in
+2019-06-27 19:43:51,349 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - It's Lco customer
+2019-06-28 16:05:56,185 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-06-28 16:06:34,831 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-06-28 16:06:42,136 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the login Btn
+2019-06-28 16:06:52,739 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the Mobile Number
+2019-06-28 16:07:03,346 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the password
+2019-06-28 16:07:09,007 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the Login Btn
+2019-06-28 16:07:16,548 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user is successfully logged in
+2019-06-28 16:07:16,549 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - It's a DPO customer
+2019-06-28 16:07:17,096 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-06-28 16:07:19,049 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - Hi MUJAWAR having the credit balance=? 2712.59  Cr
+2019-06-28 16:07:19,050 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - TimeOut:30
+2019-07-05 12:43:26,157 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-07-05 12:44:00,344 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-07-05 12:44:06,509 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the login Btn
+2019-07-05 12:44:17,208 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the Mobile Number
+2019-07-05 12:44:28,048 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the password
+2019-07-05 12:44:33,908 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the Login Btn
+2019-07-05 12:44:39,597 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user successfully logged in
+2019-07-05 12:44:39,597 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - It's Lco customer
+2019-07-05 12:49:22,467 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-07-05 12:50:22,231 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-07-05 12:52:10,747 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-07-05 12:53:36,957 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - initilizing framework
+2019-07-05 12:54:02,290 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - implicit login
+2019-07-05 12:54:08,879 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the login Btn
+2019-07-05 12:54:19,399 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the Mobile Number
+2019-07-05 12:54:29,911 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user set the password
+2019-07-05 12:54:35,439 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user clicked on the Login Btn
+2019-07-05 12:54:40,841 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - user successfully logged in
+2019-07-05 12:54:40,842 - com.mobiotics.IMCL_Selfcare.TestCases.Login -INFO - It's Lco customer
+2019-07-05 16:17:40,037 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 16:18:32,994 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 16:23:54,581 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 16:25:25,831 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 16:25:52,988 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-05 16:26:21,037 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-05 16:26:55,345 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-05 16:27:32,879 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-05 16:29:03,546 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-05 16:29:09,957 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-05 16:29:22,558 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-05 16:29:55,303 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2716.59  Cr
+2019-07-05 16:30:26,200 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-05 16:32:55,737 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 16:33:21,836 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 16:33:27,511 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-05 16:33:38,298 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-05 16:33:48,781 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-05 16:33:54,438 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-05 16:34:21,968 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-05 16:34:22,932 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-05 16:34:29,019 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-05 16:34:46,766 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2716.59  Cr
+2019-07-05 16:34:59,318 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-05 16:40:49,379 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 16:41:17,699 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 16:41:22,995 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-05 16:41:33,667 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-05 16:41:44,567 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-05 16:41:50,719 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-05 16:42:29,405 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-05 16:42:32,623 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-05 16:42:39,182 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-05 16:42:54,486 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2716.59  Cr
+2019-07-05 16:43:07,613 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-05 17:57:02,368 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 18:01:13,294 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 18:01:44,766 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 18:01:59,171 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-05 18:02:10,231 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-05 18:02:20,801 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-05 18:02:26,454 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-05 18:03:20,971 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-05 18:04:46,705 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 18:05:18,582 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 18:06:48,022 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 18:07:29,428 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 18:07:39,272 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-05 18:07:50,138 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-05 18:08:00,955 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-05 18:08:06,648 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-05 18:09:41,185 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-05 18:10:27,815 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 18:10:58,908 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 18:11:09,622 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-05 18:11:20,503 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-05 18:11:31,322 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-05 18:11:37,074 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-05 18:12:05,797 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-05 18:12:08,192 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-05 18:12:16,413 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-05 18:12:45,699 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2716.59  Cr
+2019-07-05 18:14:26,411 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 18:14:57,672 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 18:15:05,098 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-05 18:15:16,009 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-05 18:15:26,796 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-05 18:15:32,507 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-05 18:16:15,208 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user successfully logged in
+2019-07-05 18:16:19,005 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's Lco customer
+2019-07-05 18:17:58,490 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 18:18:38,653 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 18:18:51,176 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-05 18:19:02,191 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-05 18:19:12,935 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-05 18:19:18,651 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-05 18:19:56,232 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-05 18:20:00,068 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-05 18:20:11,962 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-05 18:20:27,217 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2716.59  Cr
+2019-07-05 18:20:41,468 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-05 18:21:58,736 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 18:22:28,799 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 18:22:35,299 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-05 18:22:46,248 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-05 18:22:56,995 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-05 18:23:02,666 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-05 18:23:36,761 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-05 18:23:38,701 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-05 18:23:48,324 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-05 18:24:05,059 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2716.59  Cr
+2019-07-05 18:24:19,645 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-05 18:30:40,499 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 18:31:19,357 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 18:33:19,066 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 18:34:02,433 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 19:42:15,674 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 19:42:46,979 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 19:42:55,529 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-05 19:44:18,091 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-05 19:44:47,842 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-05 19:44:52,991 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-05 19:45:03,777 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-05 19:45:14,462 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-05 19:45:20,021 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-05 19:45:25,431 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-05 19:45:25,432 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-05 19:45:25,867 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-05 19:45:26,659 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2716.59  Cr
+2019-07-05 19:45:26,660 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-06 10:09:27,845 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-06 10:09:58,217 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-06 10:10:04,311 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-06 10:10:15,979 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-06 10:10:26,540 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-06 10:10:32,185 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-06 10:10:37,820 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-06 10:10:37,821 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-06 10:10:38,304 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-06 10:10:39,210 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2717.59  Cr
+2019-07-06 10:10:39,211 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-06 10:59:12,451 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-06 10:59:38,402 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-06 10:59:44,664 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-06 10:59:55,118 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-06 11:00:05,931 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-06 11:00:15,949 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-06 11:00:52,391 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-06 11:00:54,162 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-06 11:00:58,437 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-06 11:01:07,329 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2718.59  Cr
+2019-07-06 11:01:19,768 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-06 11:03:13,528 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-06 11:03:36,970 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-06 11:03:42,451 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-06 11:03:53,217 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-06 11:04:03,745 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-06 11:04:09,325 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-06 11:04:19,579 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-06 11:04:19,582 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-06 11:04:20,677 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-06 11:04:22,034 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2718.59  Cr
+2019-07-06 11:04:22,035 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-06 11:38:36,589 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-06 11:39:01,023 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-06 11:39:11,670 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-06 11:39:22,202 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-06 11:39:32,740 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-06 11:39:38,331 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-06 11:39:50,537 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-06 11:39:50,538 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-06 11:39:50,989 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-06 11:39:51,837 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2718.59  Cr
+2019-07-06 11:39:51,838 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-06 11:43:09,006 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-06 11:43:33,177 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-06 11:43:38,599 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-06 11:43:49,190 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-06 11:43:59,765 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-06 11:44:05,317 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-06 11:53:10,516 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-06 11:53:41,000 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-06 11:54:54,692 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-06 11:55:26,635 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-06 11:55:31,977 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-06 11:55:42,858 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-06 11:55:53,360 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-06 11:55:58,954 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-06 11:56:17,116 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-06 11:56:17,119 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-06 11:56:17,531 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-06 11:56:18,623 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2718.59  Cr
+2019-07-06 11:56:18,624 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-06 12:07:16,597 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-06 12:07:42,246 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-06 12:07:47,851 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-06 12:07:58,282 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-06 12:08:08,906 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-06 12:08:14,476 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-06 12:08:25,079 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-06 12:08:25,080 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-06 12:08:25,494 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-06 12:08:27,132 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2719.59  Cr
+2019-07-06 12:08:27,133 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-06 12:52:01,474 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-06 12:52:28,131 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-06 12:52:33,479 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-06 12:52:44,463 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-06 12:52:55,041 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-06 12:53:00,637 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-06 12:57:24,012 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-06 12:57:54,280 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-06 12:58:00,564 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-06 12:58:11,455 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-06 12:58:22,107 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-06 12:58:27,688 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-06 12:58:41,461 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-06 12:58:41,462 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-06 12:58:41,928 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-06 12:58:42,813 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2719.59  Cr
+2019-07-06 12:58:42,815 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-06 13:00:04,335 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-06 13:00:30,584 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-06 13:00:35,666 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-06 13:00:46,176 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-06 13:00:56,685 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-06 13:01:02,330 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-06 13:01:08,400 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user is successfully logged in
+2019-07-06 13:01:08,402 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's a DPO customer
+2019-07-06 13:01:08,883 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-06 13:01:09,747 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - Hi MUJAWAR having the credit balance=? 2719.59  Cr
+2019-07-06 13:01:09,752 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - TimeOut:30
+2019-07-10 15:19:43,506 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-10 15:20:16,317 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-10 15:20:24,272 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-10 15:20:34,716 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-10 15:20:45,240 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-10 15:20:50,818 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-10 15:20:56,182 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-10 15:20:56,183 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-10 15:20:57,344 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-10 15:20:58,241 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=? 2311.90  Cr
+2019-07-10 15:20:58,242 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-10 15:31:42,947 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-10 15:34:36,924 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-10 15:35:18,476 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-10 15:35:25,615 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-10 15:35:36,408 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-10 15:35:47,609 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-10 15:35:53,310 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-10 15:36:13,262 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-10 15:36:13,264 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-10 15:36:13,924 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-10 15:36:15,697 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=? 2311.90  Cr
+2019-07-10 15:36:15,697 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-10 15:38:00,149 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-10 15:38:26,450 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-10 15:38:31,800 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-10 15:38:42,575 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-10 15:38:53,202 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-10 15:38:58,813 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-10 15:39:09,295 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-10 15:39:09,295 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-10 15:39:09,766 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-10 15:39:11,377 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=? 2311.90  Cr
+2019-07-10 15:39:11,379 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-10 15:41:34,039 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-10 15:41:59,016 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-10 15:42:04,079 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-10 15:42:14,608 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-10 15:42:25,285 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-10 15:42:30,945 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-10 15:42:46,251 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-10 15:42:46,255 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-10 15:42:46,677 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-10 15:42:47,581 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=? 2311.90  Cr
+2019-07-10 15:42:47,585 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-10 17:18:16,495 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-10 17:45:18,062 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-10 17:49:27,497 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-10 17:50:33,121 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-10 17:55:26,276 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-10 17:56:08,601 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-10 17:56:18,130 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-10 17:56:28,840 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-10 17:56:39,730 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-10 17:56:45,550 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-10 17:57:36,198 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-10 17:57:36,201 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-10 17:57:37,250 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-10 17:57:38,443 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=? 2311.90  Cr
+2019-07-10 17:57:38,444 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-10 18:13:52,066 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-10 18:14:08,809 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-10 18:14:16,519 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-10 18:14:26,613 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-10 18:14:36,938 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-10 18:14:43,559 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-10 18:14:54,182 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-10 18:14:54,183 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-10 18:14:54,714 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-10 18:14:55,483 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=?2311.90  Cr
+2019-07-10 18:14:55,484 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-11 14:12:39,370 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 14:12:57,011 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 14:13:04,653 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 14:13:15,465 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 14:13:26,312 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 14:13:34,082 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 14:13:52,004 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-11 14:13:52,005 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-11 14:13:52,578 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-11 14:13:54,612 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=?2311.90  Cr
+2019-07-11 14:13:54,614 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-11 14:16:20,279 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 14:16:33,867 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 14:16:41,299 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 14:16:51,786 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 14:17:02,365 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 14:17:09,261 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 14:17:21,252 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-11 14:17:21,253 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-11 14:17:21,639 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-11 14:17:23,275 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=?2311.90  Cr
+2019-07-11 14:17:23,277 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-11 14:36:07,646 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 14:36:23,642 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 14:36:31,559 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 14:36:42,232 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 14:36:53,118 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 14:37:00,365 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 14:38:01,027 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 14:38:17,105 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 14:38:24,884 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 14:38:35,526 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 14:38:46,602 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 14:39:48,008 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 14:40:01,493 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 14:40:09,191 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 14:40:19,772 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 14:40:30,553 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 14:40:37,600 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 14:41:39,737 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user successfully logged in
+2019-07-11 14:41:39,738 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's Lco customer
+2019-07-11 14:42:48,065 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 14:43:03,710 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 14:43:11,472 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 14:43:23,122 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 14:43:41,560 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 14:43:48,462 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 14:44:04,065 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-11 14:44:04,843 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-11 14:44:07,042 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-11 14:44:11,469 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=?2084.98  Cr
+2019-07-11 14:44:13,379 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-11 14:47:18,867 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 14:47:34,287 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 14:47:41,997 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 14:47:53,025 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 14:48:03,939 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 14:48:12,591 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 14:51:08,067 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 14:51:23,735 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 14:51:31,697 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 14:51:42,417 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 14:51:53,465 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 14:52:00,697 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 14:52:13,254 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-11 14:52:13,988 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-11 14:52:16,414 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-11 14:52:21,112 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=?2084.98  Cr
+2019-07-11 14:52:22,049 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-11 15:21:49,143 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 15:22:05,337 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 15:22:13,122 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 15:22:23,877 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 15:22:34,790 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 15:22:41,776 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 15:22:55,928 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-11 15:22:56,245 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-11 15:22:58,881 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-11 15:23:03,571 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=?2084.98  Cr
+2019-07-11 15:23:05,398 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-11 15:24:27,894 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 15:24:44,380 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 15:24:52,046 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 15:25:03,279 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 15:25:14,574 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 15:25:21,256 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 15:25:34,229 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-11 15:25:34,383 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-11 15:25:36,541 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-11 15:25:44,239 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=?2084.98  Cr
+2019-07-11 15:25:48,629 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-11 15:28:30,392 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 15:28:45,847 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 15:28:53,400 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 15:29:04,205 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 15:29:14,709 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 15:29:21,488 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 15:29:30,511 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-11 15:29:30,780 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-11 15:29:32,928 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-11 15:29:38,048 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=?2084.98  Cr
+2019-07-11 15:29:39,849 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-11 15:40:53,041 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 15:41:08,180 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 15:41:15,870 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 15:41:26,519 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 15:41:37,242 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 15:41:44,148 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 15:41:49,739 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-11 15:41:49,740 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-11 15:41:50,424 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-11 15:41:52,029 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=?1413.66  Cr
+2019-07-11 15:41:52,030 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-11 16:39:47,250 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 16:40:00,908 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 16:40:08,368 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 16:40:19,074 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 16:40:29,781 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 16:40:38,508 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 16:41:00,812 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-11 16:41:01,294 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-11 16:41:03,274 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-11 16:41:40,701 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 16:41:57,426 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-11 16:42:05,354 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-11 16:42:16,087 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-11 16:42:26,964 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-11 16:42:33,626 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-11 16:42:50,143 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user is successfully logged in
+2019-07-11 16:42:50,410 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's a DPO customer
+2019-07-11 16:42:52,082 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - DPO Customer Name:-Hi MUJAWAR
+2019-07-11 16:42:57,408 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Hi MUJAWAR having the credit balance=?1412.77  Cr
+2019-07-11 16:43:02,008 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-11 17:45:06,935 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-11 17:45:43,462 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 12:47:44,452 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 12:50:55,431 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 13:00:39,275 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 13:00:50,607 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-15 13:00:57,989 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-15 13:01:08,799 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-15 13:01:19,784 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-15 13:01:26,422 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-15 13:01:47,538 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user successfully logged in
+2019-07-15 13:01:47,943 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's Lco customer
+2019-07-15 13:03:53,481 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 13:04:09,322 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-15 13:04:17,069 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-15 13:04:27,781 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-15 13:04:38,739 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-15 13:04:45,500 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-15 13:05:16,610 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user successfully logged in
+2019-07-15 13:05:19,035 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's Lco customer
+2019-07-15 14:21:53,301 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 14:22:05,767 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-15 14:22:13,828 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-15 14:22:23,994 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-15 14:22:34,642 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-15 14:22:40,877 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-15 14:24:51,330 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user successfully logged in
+2019-07-15 14:24:53,829 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's Lco customer
+2019-07-15 14:25:28,715 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 14:25:40,595 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-15 14:25:48,444 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-15 14:25:59,397 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-15 14:26:09,904 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-15 14:26:16,539 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-15 14:32:47,826 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 14:33:01,512 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-15 14:33:12,323 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-15 14:33:22,962 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-15 14:33:33,534 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-15 14:33:40,440 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-15 14:34:41,016 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user successfully logged in
+2019-07-15 14:34:43,819 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's Lco customer
+2019-07-15 14:34:55,434 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - LCO Name:-
+2019-07-15 14:35:06,087 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Monthly Cost:-?396.66
+2019-07-15 14:35:18,547 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Base Pack Expire on:-10-08-2019
+2019-07-15 14:35:34,328 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-15 14:37:28,493 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 14:37:41,281 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-15 14:37:48,994 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-15 14:37:59,378 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-15 14:38:09,995 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-15 14:38:17,043 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-15 14:39:01,011 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user successfully logged in
+2019-07-15 14:39:04,558 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's Lco customer
+2019-07-15 14:39:15,807 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - LCO Name:-
+2019-07-15 14:39:27,934 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Monthly Cost:-?396.66
+2019-07-15 14:39:40,146 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Base Pack Expire on:-10-08-2019
+2019-07-15 14:39:54,392 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-15 14:42:42,045 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 14:42:53,337 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-15 14:43:00,956 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-15 14:43:11,749 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-15 14:43:22,524 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-15 14:43:31,127 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-15 14:45:17,838 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user successfully logged in
+2019-07-15 14:45:17,839 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's Lco customer
+2019-07-15 14:45:50,821 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - LCO Name:-
+2019-07-15 14:45:52,084 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Monthly Cost:-?396.66
+2019-07-15 14:45:53,107 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Base Pack Expire on:-10-08-2019
+2019-07-15 14:45:53,108 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-15 16:40:35,179 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 16:40:49,630 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-15 16:40:57,596 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-15 16:41:07,907 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-15 16:41:18,471 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-15 16:41:24,999 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-15 16:43:34,046 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 16:43:47,003 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-15 16:43:54,769 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-15 16:44:05,271 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-15 16:44:16,195 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-15 16:44:24,370 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-15 16:45:09,079 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user successfully logged in
+2019-07-15 16:45:12,160 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's Lco customer
+2019-07-15 16:45:22,140 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - LCO Name:-
+2019-07-15 16:45:33,170 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Monthly Cost:-?396.66
+2019-07-15 16:45:50,590 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Base Pack Expire on:-10-08-2019
+2019-07-15 16:46:13,969 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-15 16:49:03,993 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 16:49:14,849 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-15 16:49:22,515 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-15 16:49:33,322 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-15 16:49:44,081 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-15 16:49:50,551 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-15 16:53:04,571 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user successfully logged in
+2019-07-15 16:53:04,572 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's Lco customer
+2019-07-15 17:00:27,193 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - initilizing framework
+2019-07-15 17:00:37,827 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - implicit login
+2019-07-15 17:00:45,517 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the login Btn
+2019-07-15 17:00:56,379 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the Mobile Number
+2019-07-15 17:01:07,091 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user set the password
+2019-07-15 17:01:14,172 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user clicked on the Login Btn
+2019-07-15 17:03:27,812 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - user successfully logged in
+2019-07-15 17:03:27,820 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - It's Lco customer
+2019-07-15 17:03:28,671 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - LCO Name:-
+2019-07-15 17:03:29,942 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Monthly Cost:-?396.66
+2019-07-15 17:03:31,400 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - Base Pack Expire on:-10-08-2019
+2019-07-15 17:03:31,400 - com.mobiotics.IMCL_Selfcare.TestCases.TC_002_AddPack_ToDPOCustomer -INFO - TimeOut:30
+2019-07-22 17:01:14,467 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-22 17:04:09,662 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-22 17:04:41,364 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-22 17:04:49,578 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-22 17:05:04,889 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-22 17:05:15,495 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-22 17:05:21,031 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-22 17:05:47,549 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user is successfully logged in
+2019-07-22 17:05:48,415 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's a DPO customer
+2019-07-22 17:05:52,866 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - DPO Customer Name:-Hi THOMAS
+2019-07-22 17:06:08,500 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Hi THOMAS having the credit balance=? 471.11  Cr
+2019-07-22 17:06:19,975 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-22 17:07:27,603 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of Base Pack
+2019-07-22 17:08:00,945 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:08:02,889 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9X JALWA
+2019-07-22 17:08:09,744 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:08:10,290 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9X JHAKAAS
+2019-07-22 17:08:15,641 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:08:16,199 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9XM
+2019-07-22 17:08:21,348 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:08:21,936 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - AALAMI SAMAY
+2019-07-22 17:08:26,778 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:08:27,805 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - AASTHA BHAJAN
+2019-07-22 17:08:33,584 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:08:36,818 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ABP MAJHA
+2019-07-22 17:08:41,692 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:08:42,297 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ABP NEWS
+2019-07-22 17:08:48,664 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:08:49,202 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ARIHANT
+2019-07-22 17:08:54,676 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:08:55,194 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ARIRANG
+2019-07-22 17:09:01,134 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:09:01,664 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - B4U MOVIES
+2019-07-22 17:09:17,783 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of InDigital Bouquets
+2019-07-22 17:09:35,070 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:09:35,724 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - AAJ TAK
+2019-07-22 17:09:40,842 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:09:41,676 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ANIMAL PLANET
+2019-07-22 17:09:47,424 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:09:47,988 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - BBC WORLD NEWS
+2019-07-22 17:09:56,310 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:09:56,950 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN INTERNATIONAL
+2019-07-22 17:10:03,054 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:10:03,717 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN NEWS18
+2019-07-22 17:10:09,451 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:10:09,845 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY CHANNEL
+2019-07-22 17:10:16,222 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:10:16,635 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY KIDS
+2019-07-22 17:10:24,330 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:10:25,297 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - EPIC
+2019-07-22 17:10:34,276 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:10:35,528 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ET NOW
+2019-07-22 17:10:42,852 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:10:43,458 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - GOOD TIMES
+2019-07-22 17:11:03,007 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of Broadcaster Bouquets
+2019-07-22 17:11:19,936 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:11:21,011 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - AAJ TAK
+2019-07-22 17:11:26,738 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:11:27,330 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ANIMAL PLANET
+2019-07-22 17:11:32,508 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:11:34,250 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - BBC WORLD NEWS
+2019-07-22 17:11:40,112 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:11:40,665 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN INTERNATIONAL
+2019-07-22 17:11:45,062 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:11:46,058 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN NEWS18
+2019-07-22 17:11:51,049 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:11:51,511 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY CHANNEL
+2019-07-22 17:11:57,556 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:11:59,504 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY KIDS
+2019-07-22 17:12:05,146 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:12:06,425 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - EPIC
+2019-07-22 17:12:12,242 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:12:12,728 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ET NOW
+2019-07-22 17:12:19,957 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:12:20,520 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - GOOD TIMES
+2019-07-22 17:32:02,985 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-22 17:32:36,956 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-22 17:32:45,841 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-22 17:32:56,559 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-22 17:33:07,095 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-22 17:33:12,663 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-22 17:33:44,532 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user is successfully logged in
+2019-07-22 17:33:46,506 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's a DPO customer
+2019-07-22 17:33:52,779 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - DPO Customer Name:-Hi THOMAS
+2019-07-22 17:34:06,100 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Hi THOMAS having the credit balance=? 471.11  Cr
+2019-07-22 17:34:15,991 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-22 17:35:07,582 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of Base Pack
+2019-07-22 17:35:28,629 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:35:29,717 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9X JALWA
+2019-07-22 17:35:40,454 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:35:41,950 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9X JHAKAAS
+2019-07-22 17:35:51,821 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:35:52,848 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9XM
+2019-07-22 17:36:50,775 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-22 17:37:23,785 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-22 17:37:29,214 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-22 17:37:39,942 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-22 17:37:50,292 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-22 17:37:55,919 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-22 17:38:16,607 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user is successfully logged in
+2019-07-22 17:38:18,067 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's a DPO customer
+2019-07-22 17:38:25,164 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - DPO Customer Name:-Hi THOMAS
+2019-07-22 17:38:38,596 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Hi THOMAS having the credit balance=? 471.11  Cr
+2019-07-22 17:38:49,544 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-22 17:40:49,689 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-22 17:41:18,410 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-22 17:41:24,351 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-22 17:41:35,074 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-22 17:41:45,457 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-22 17:41:51,078 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-22 17:42:12,125 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user is successfully logged in
+2019-07-22 17:42:14,189 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's a DPO customer
+2019-07-22 17:42:21,051 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - DPO Customer Name:-Hi THOMAS
+2019-07-22 17:42:33,883 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Hi THOMAS having the credit balance=? 471.11  Cr
+2019-07-22 17:42:50,152 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-22 17:43:53,315 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of Base Pack
+2019-07-22 17:44:21,809 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:44:23,141 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9X JALWA
+2019-07-22 17:44:30,920 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:44:32,656 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9X JHAKAAS
+2019-07-22 17:44:40,235 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:44:41,612 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9XM
+2019-07-22 17:44:48,507 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:44:49,993 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - AALAMI SAMAY
+2019-07-22 17:44:56,220 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:44:57,078 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - AASTHA BHAJAN
+2019-07-22 17:45:07,989 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:45:08,770 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ABP MAJHA
+2019-07-22 17:45:14,908 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:45:15,744 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ABP NEWS
+2019-07-22 17:45:23,640 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:45:24,379 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ARIHANT
+2019-07-22 17:45:31,984 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:45:35,478 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ARIRANG
+2019-07-22 17:45:45,956 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:45:46,664 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - B4U MOVIES
+2019-07-22 17:46:00,793 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of InDigital Bouquets
+2019-07-22 17:46:38,424 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:46:39,271 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - AAJ TAK
+2019-07-22 17:46:47,348 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:46:48,070 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ANIMAL PLANET
+2019-07-22 17:46:54,185 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:46:55,302 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - BBC WORLD NEWS
+2019-07-22 17:47:08,577 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:47:09,657 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN INTERNATIONAL
+2019-07-22 17:47:18,809 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:47:20,026 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN NEWS18
+2019-07-22 17:47:26,179 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:47:26,938 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY CHANNEL
+2019-07-22 17:47:33,328 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:47:36,100 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY KIDS
+2019-07-22 17:47:43,051 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:47:43,809 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - EPIC
+2019-07-22 17:47:49,923 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:47:51,255 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ET NOW
+2019-07-22 17:48:02,488 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:48:03,320 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - GOOD TIMES
+2019-07-22 17:48:15,963 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of Broadcaster Bouquets
+2019-07-22 17:48:35,657 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:48:36,388 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - AAJ TAK
+2019-07-22 17:48:43,855 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:48:44,726 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ANIMAL PLANET
+2019-07-22 17:48:52,143 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:48:53,924 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - BBC WORLD NEWS
+2019-07-22 17:49:05,194 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:49:07,266 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN INTERNATIONAL
+2019-07-22 17:49:13,986 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:49:14,921 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN NEWS18
+2019-07-22 17:49:21,297 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:49:22,037 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY CHANNEL
+2019-07-22 17:49:29,260 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:49:30,309 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY KIDS
+2019-07-22 17:49:37,703 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:49:38,631 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - EPIC
+2019-07-22 17:49:48,187 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:49:50,317 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ET NOW
+2019-07-22 17:49:57,229 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-22 17:49:57,984 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - GOOD TIMES
+2019-07-24 12:19:32,363 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 12:20:07,678 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 12:20:13,852 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 12:20:24,871 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 12:20:35,188 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 12:20:40,786 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 12:26:52,782 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 12:26:53,150 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 12:26:55,163 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 12:27:12,054 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 12:27:52,762 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 12:27:58,524 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 12:28:09,364 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 12:28:19,918 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 12:28:25,536 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 12:31:49,253 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 12:33:11,704 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 12:33:50,177 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 12:33:55,392 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 12:34:06,116 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 12:34:16,639 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 12:34:22,485 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 12:34:41,949 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user is successfully logged in
+2019-07-24 12:34:42,914 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's a DPO customer
+2019-07-24 12:34:46,174 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - DPO Customer Name:-Hi THOMAS
+2019-07-24 12:34:52,185 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Hi THOMAS having the credit balance=? 471.11  Cr
+2019-07-24 12:34:55,714 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 12:36:06,505 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of Base Pack
+2019-07-24 12:40:18,537 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 12:40:48,249 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 12:40:53,345 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 12:41:04,122 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 12:41:14,493 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 12:41:20,125 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 12:41:49,896 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user is successfully logged in
+2019-07-24 12:41:54,162 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's a DPO customer
+2019-07-24 12:42:05,828 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - DPO Customer Name:-Hi THOMAS
+2019-07-24 12:42:32,035 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Hi THOMAS having the credit balance=? 471.11  Cr
+2019-07-24 12:42:49,192 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 12:44:26,043 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of Base Pack
+2019-07-24 12:46:29,773 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 12:46:55,947 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 12:47:01,374 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 12:47:11,887 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 12:47:22,398 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 12:47:27,979 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 12:47:33,590 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user is successfully logged in
+2019-07-24 12:47:33,590 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's a DPO customer
+2019-07-24 12:47:33,998 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - DPO Customer Name:-Hi THOMAS
+2019-07-24 12:47:34,812 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Hi THOMAS having the credit balance=? 471.11  Cr
+2019-07-24 12:47:34,813 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 12:47:48,883 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of Base Pack
+2019-07-24 12:47:53,138 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:47:53,138 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9X JHAKAAS
+2019-07-24 12:47:53,475 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:47:53,476 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9XM
+2019-07-24 12:47:53,700 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:47:53,701 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - AALAMI SAMAY
+2019-07-24 12:47:53,930 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:47:53,931 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - AASTHA BHAJAN
+2019-07-24 12:47:54,160 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:47:54,160 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ABP MAJHA
+2019-07-24 12:47:54,408 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:47:54,408 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ABP NEWS
+2019-07-24 12:47:54,630 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:47:54,631 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ARIHANT
+2019-07-24 12:47:54,859 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:47:54,859 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ARIRANG
+2019-07-24 12:47:55,106 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:47:55,106 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - B4U MOVIES
+2019-07-24 12:47:58,593 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of InDigital Bouquets
+2019-07-24 12:48:00,862 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:00,863 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ANIMAL PLANET
+2019-07-24 12:48:01,103 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:01,103 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - BBC WORLD NEWS
+2019-07-24 12:48:01,326 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:01,327 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN INTERNATIONAL
+2019-07-24 12:48:01,613 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:01,614 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN NEWS18
+2019-07-24 12:48:01,862 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:01,863 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY CHANNEL
+2019-07-24 12:48:02,117 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:02,117 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY KIDS
+2019-07-24 12:48:02,370 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:02,370 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - EPIC
+2019-07-24 12:48:02,589 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:02,589 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ET NOW
+2019-07-24 12:48:02,805 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:02,806 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - GOOD TIMES
+2019-07-24 12:48:06,164 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of Broadcaster Bouquets
+2019-07-24 12:48:08,514 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:08,515 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ANIMAL PLANET
+2019-07-24 12:48:08,734 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:08,735 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - BBC WORLD NEWS
+2019-07-24 12:48:08,965 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:08,966 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN INTERNATIONAL
+2019-07-24 12:48:09,191 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:09,192 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN NEWS18
+2019-07-24 12:48:09,433 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:09,434 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY CHANNEL
+2019-07-24 12:48:09,653 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:09,653 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY KIDS
+2019-07-24 12:48:09,891 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:09,891 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - EPIC
+2019-07-24 12:48:10,159 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:10,160 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ET NOW
+2019-07-24 12:48:10,377 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 12:48:10,378 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - GOOD TIMES
+2019-07-24 13:06:58,031 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 13:07:29,161 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 13:07:34,674 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 13:07:44,937 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 13:07:55,257 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 13:08:00,810 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 13:08:07,081 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 13:08:07,083 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 13:08:11,669 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 13:08:12,090 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-Monthly cost
+2019-07-24 13:08:12,522 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-Current balance
+2019-07-24 13:08:12,522 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 13:08:26,099 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of Base Pack
+2019-07-24 13:08:28,411 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:28,412 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9X JHAKAAS
+2019-07-24 13:08:28,708 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:28,710 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - 9XM
+2019-07-24 13:08:28,932 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:28,932 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - AALAMI SAMAY
+2019-07-24 13:08:29,157 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:29,158 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - AASTHA BHAJAN
+2019-07-24 13:08:29,495 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:29,495 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ABP MAJHA
+2019-07-24 13:08:29,726 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:29,727 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ABP NEWS
+2019-07-24 13:08:29,943 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:29,943 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ARIHANT
+2019-07-24 13:08:30,220 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:30,220 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ARIRANG
+2019-07-24 13:08:30,526 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:30,527 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - B4U MOVIES
+2019-07-24 13:08:34,146 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of InDigital Bouquets
+2019-07-24 13:08:36,578 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:36,578 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ANIMAL PLANET
+2019-07-24 13:08:36,801 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:36,802 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - BBC WORLD NEWS
+2019-07-24 13:08:37,108 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:37,109 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN INTERNATIONAL
+2019-07-24 13:08:37,407 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:37,408 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN NEWS18
+2019-07-24 13:08:37,771 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:37,772 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY CHANNEL
+2019-07-24 13:08:38,003 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:38,004 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY KIDS
+2019-07-24 13:08:38,296 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:38,297 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - EPIC
+2019-07-24 13:08:38,527 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:38,528 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ET NOW
+2019-07-24 13:08:38,755 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:38,756 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - GOOD TIMES
+2019-07-24 13:08:42,155 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - All Packs of Broadcaster Bouquets
+2019-07-24 13:08:44,531 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:44,532 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ANIMAL PLANET
+2019-07-24 13:08:44,760 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:44,761 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - BBC WORLD NEWS
+2019-07-24 13:08:44,969 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:44,969 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN INTERNATIONAL
+2019-07-24 13:08:45,189 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:45,189 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - CNN NEWS18
+2019-07-24 13:08:45,420 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:45,421 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY CHANNEL
+2019-07-24 13:08:45,643 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:45,644 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - DISCOVERY KIDS
+2019-07-24 13:08:45,918 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:45,919 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - EPIC
+2019-07-24 13:08:46,214 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:46,214 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ET NOW
+2019-07-24 13:08:46,426 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - ------All Available Packs are-------
+2019-07-24 13:08:46,427 - com.mobiotics.IMCL_Selfcare_MyPack.ManagePackPageTest -INFO - GOOD TIMES
+2019-07-24 15:51:16,980 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 15:51:54,724 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 15:52:02,054 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 15:52:12,820 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 15:52:23,325 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 15:52:28,980 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 15:53:02,440 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 15:53:03,138 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 15:53:06,257 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 15:53:08,807 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-? 1151.27
+2019-07-24 15:53:13,285 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-07-09-2019
+2019-07-24 15:53:16,087 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 15:56:58,022 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 15:57:25,020 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 15:57:40,314 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 15:57:50,843 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 15:58:01,163 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 15:58:06,740 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 15:59:05,868 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 15:59:08,120 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 15:59:16,152 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 15:59:27,888 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-? 1151.27
+2019-07-24 15:59:37,351 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-07-09-2019
+2019-07-24 15:59:48,556 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 16:01:31,967 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 16:01:58,848 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 16:02:03,950 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 16:02:14,418 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 16:02:24,803 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 16:02:30,482 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 16:02:36,368 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 16:02:36,375 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 16:02:37,155 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 16:02:37,811 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-? 1151.27
+2019-07-24 16:02:38,445 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-07-09-2019
+2019-07-24 16:02:38,446 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 16:10:29,333 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 16:10:57,483 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 16:11:06,156 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 16:11:16,763 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 16:11:27,245 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 16:11:32,770 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 16:11:38,378 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 16:11:38,379 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 16:44:15,025 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 16:44:49,945 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 16:44:54,920 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 16:45:05,598 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 16:45:15,988 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 16:45:21,607 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 16:45:27,013 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 16:45:27,014 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 16:45:27,883 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 16:45:28,290 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-? 1151.27
+2019-07-24 16:45:28,709 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-07-09-2019
+2019-07-24 16:45:28,709 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 16:56:08,049 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 16:56:41,178 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 16:56:46,924 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 16:56:57,762 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 16:57:08,303 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 16:57:13,938 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 16:57:19,462 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 16:57:19,464 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 16:57:19,998 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 16:57:20,504 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-? 1151.27
+2019-07-24 16:57:21,049 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-07-09-2019
+2019-07-24 16:57:21,050 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 16:59:58,037 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 17:00:31,506 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 17:01:11,705 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 17:01:18,268 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 17:01:29,204 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 17:01:39,761 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 17:01:45,398 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 17:01:50,979 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 17:01:50,980 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 17:01:51,529 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 17:01:52,204 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-? 1151.27
+2019-07-24 17:01:53,525 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-07-09-2019
+2019-07-24 17:01:53,528 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 17:13:37,982 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 17:14:11,444 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 17:14:17,107 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 17:14:28,022 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 17:14:38,507 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 17:14:44,150 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 17:14:49,645 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 17:14:49,649 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 17:14:50,136 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 17:14:50,675 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-? 1151.27
+2019-07-24 17:14:51,232 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-07-09-2019
+2019-07-24 17:14:51,232 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 17:16:50,515 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 17:17:27,610 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 17:17:32,903 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 17:17:43,656 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 17:17:54,071 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 17:17:59,681 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 17:18:05,199 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 17:18:05,200 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 17:18:06,016 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 17:18:06,491 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-? 1151.27
+2019-07-24 17:18:07,026 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-07-09-2019
+2019-07-24 17:18:07,026 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 17:19:17,396 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 17:19:55,461 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 17:20:01,086 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 17:20:11,783 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 17:20:22,296 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 17:20:27,943 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 17:20:33,487 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 17:20:33,488 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 17:20:34,225 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 17:20:34,732 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-? 1151.27
+2019-07-24 17:20:35,244 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-07-09-2019
+2019-07-24 17:20:35,244 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 17:40:19,772 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 17:40:56,162 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 17:41:01,623 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 17:41:12,720 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 17:41:23,281 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 17:41:28,970 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 17:41:34,424 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 17:41:34,425 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 17:41:34,825 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-Login
+2019-07-24 18:43:41,624 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 18:44:32,662 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 18:45:04,048 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 18:45:09,626 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 18:45:20,306 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 18:45:30,872 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 18:45:36,427 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 18:45:42,107 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 18:45:42,111 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 18:45:43,027 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 18:45:43,459 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-? 1052.03
+2019-07-24 18:45:43,894 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-07-09-2019
+2019-07-24 18:45:43,894 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 18:53:30,032 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 18:54:01,431 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 18:54:06,787 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 18:54:17,223 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 18:54:27,541 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 18:54:33,062 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 18:54:38,426 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 18:54:38,427 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 18:54:38,914 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 18:54:39,300 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-? 1052.03
+2019-07-24 18:54:39,880 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-07-09-2019
+2019-07-24 18:54:39,880 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-24 19:01:41,648 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - initilizing framework
+2019-07-24 19:02:14,375 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - implicit login
+2019-07-24 19:02:19,712 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the login Btn
+2019-07-24 19:02:30,096 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the Mobile Number
+2019-07-24 19:02:40,653 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user set the password
+2019-07-24 19:02:46,390 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user clicked on the Login Btn
+2019-07-24 19:02:51,818 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - user successfully logged in
+2019-07-24 19:02:51,819 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - It's Lco customer
+2019-07-24 19:02:52,756 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - LCO Name:-
+2019-07-24 19:02:53,148 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Monthly Cost:-? 1052.03
+2019-07-24 19:02:53,540 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - Base Pack Expire on:-07-09-2019
+2019-07-24 19:02:53,540 - com.mobiotics.IMCL_Selfcare.TestCases.TC_003_ManageMyPack_DP_customer -INFO - TimeOut:30
+2019-07-25 14:58:29,431 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 14:59:08,678 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 14:59:14,048 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 14:59:25,267 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 14:59:35,765 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 14:59:41,526 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 14:59:47,218 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 14:59:47,219 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 14:59:47,726 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 14:59:48,229 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 14:59:48,762 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 14:59:48,762 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 15:07:27,428 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 15:08:08,497 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 15:08:18,416 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 15:08:29,394 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 15:08:39,947 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 15:08:45,604 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 15:08:51,163 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 15:08:51,165 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 15:08:51,726 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 15:08:52,250 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 15:08:52,822 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 15:08:52,823 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 15:11:02,832 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 15:11:41,057 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 15:11:47,139 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 15:11:57,882 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 15:12:08,555 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 15:12:14,255 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 15:12:19,900 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 15:12:19,901 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 15:12:20,452 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 15:12:20,943 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 15:12:21,468 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 15:12:21,469 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 15:14:15,200 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 15:14:45,283 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 15:14:50,732 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 15:15:01,505 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 15:15:12,260 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 15:15:17,939 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 15:15:23,476 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 15:15:23,477 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 15:15:23,993 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 15:15:24,482 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 15:15:25,012 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 15:15:25,013 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 15:18:48,204 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 15:19:23,809 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 15:19:29,297 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 15:19:39,972 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 15:19:50,664 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 15:19:56,368 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 15:20:01,839 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 15:20:01,840 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 15:20:02,516 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 15:20:03,032 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 15:20:03,591 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 15:20:03,591 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 15:21:32,548 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 15:22:05,545 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 15:22:10,820 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 15:22:21,428 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 15:22:32,140 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 15:22:37,924 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 15:22:43,396 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 15:22:43,397 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 15:22:44,098 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 15:22:44,619 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 15:22:45,156 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 15:22:45,157 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 15:23:56,672 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - LCO Name--Shree Sai Cable Video Network Swo
+2019-07-25 15:24:05,992 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Base Pack Expiry Date--07-09-2019
+2019-07-25 15:24:14,402 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Can Number Details--26312843
+2019-07-25 15:24:23,144 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Mobile Number--9038156237
+2019-07-25 15:24:31,177 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Email Id-rrr@gmail.com
+2019-07-25 15:24:39,309 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Set Top Box--20138150094170
+2019-07-25 15:26:53,478 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 15:27:34,225 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 15:28:36,262 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 15:29:17,992 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 15:29:24,143 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 15:29:34,868 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 15:29:45,504 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 15:29:51,164 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 15:29:56,765 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 15:29:56,766 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 15:29:57,308 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 15:29:57,875 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 15:29:58,439 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 15:29:58,440 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 15:30:07,401 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - LCO Name--Shree Sai Cable Video Network Swo
+2019-07-25 15:30:07,575 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Base Pack Expiry Date--07-09-2019
+2019-07-25 15:30:07,679 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Can Number Details--26312843
+2019-07-25 15:30:07,799 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Mobile Number--9038156237
+2019-07-25 15:30:07,963 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Email Id-rrr@gmail.com
+2019-07-25 15:30:08,049 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Set Top Box--20138150094170
+2019-07-25 15:47:44,099 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 15:48:17,170 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 15:48:22,692 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 15:48:33,682 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 15:48:44,766 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 15:48:50,404 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 15:48:56,018 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 15:48:56,019 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 15:48:56,797 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 15:48:57,349 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 15:48:58,040 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 15:48:58,041 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 15:49:06,832 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - LCO Name--Shree Sai Cable Video Network Swo
+2019-07-25 15:49:06,936 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Base Pack Expiry Date--07-09-2019
+2019-07-25 15:49:07,017 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Can Number Details--26312843
+2019-07-25 15:49:07,102 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Mobile Number--9038156237
+2019-07-25 15:49:07,233 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Email Id-oawtt@mobiotics.com
+2019-07-25 15:49:07,316 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Set Top Box--20138150094170
+2019-07-25 16:15:55,125 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 16:16:23,792 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 16:16:29,957 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 16:21:04,532 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 16:21:31,899 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 16:21:37,753 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 16:21:48,642 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 16:21:59,226 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 16:22:04,894 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 16:22:10,689 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 16:22:10,690 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 16:22:11,391 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 16:22:12,156 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 16:22:12,875 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 16:22:12,876 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 16:22:26,407 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - LCO Name--Shree Sai Cable Video Network Swo
+2019-07-25 16:22:26,502 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Base Pack Expiry Date--07-09-2019
+2019-07-25 16:22:26,610 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Can Number Details--26312843
+2019-07-25 16:22:26,725 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Mobile Number--9038156237
+2019-07-25 16:22:26,840 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Email Id-oawtt@mobiotics.com
+2019-07-25 16:22:26,936 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Set Top Box--20138150094170
+2019-07-25 16:26:34,357 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 16:27:01,723 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 16:27:08,170 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 16:27:19,077 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 16:27:29,796 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 16:27:35,597 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 16:27:41,153 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 16:27:41,154 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 16:27:41,735 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 16:27:42,300 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 16:27:42,783 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 16:27:42,785 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 16:27:54,140 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - LCO Name--Shree Sai Cable Video Network Swo
+2019-07-25 16:27:54,235 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Base Pack Expiry Date--07-09-2019
+2019-07-25 16:27:54,656 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Can Number Details--26312843
+2019-07-25 16:27:54,740 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Mobile Number--9038156237
+2019-07-25 16:27:54,885 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Email Id-tottb@mobiotics.com.com
+2019-07-25 16:27:55,022 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Set Top Box--20138150094170
+2019-07-25 16:30:25,792 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 16:30:56,449 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 16:31:16,047 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 16:31:27,030 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 16:31:37,923 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 16:31:43,565 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 16:31:49,193 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 16:31:49,193 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 16:31:49,744 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 16:31:50,281 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 16:31:50,815 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 16:31:50,816 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 16:31:59,906 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - LCO Name--Shree Sai Cable Video Network Swo
+2019-07-25 16:31:59,998 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Base Pack Expiry Date--07-09-2019
+2019-07-25 16:32:00,089 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Can Number Details--26312843
+2019-07-25 16:32:00,186 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Mobile Number--9038156237
+2019-07-25 16:32:00,272 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Email Id-tottb@mobiotics.com.com
+2019-07-25 16:32:00,344 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Set Top Box--20138150094170
+2019-07-25 16:34:41,799 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 16:35:13,468 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 16:35:18,949 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 16:35:29,665 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 16:35:40,197 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 16:35:45,796 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 16:35:51,400 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 16:35:51,401 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 16:35:55,617 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 16:35:56,168 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 16:35:56,743 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 16:35:56,744 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 16:36:18,107 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - LCO Name--Shree Sai Cable Video Network Swo
+2019-07-25 16:36:18,236 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Base Pack Expiry Date--07-09-2019
+2019-07-25 16:36:18,378 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Can Number Details--26312843
+2019-07-25 16:36:18,528 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Mobile Number--9038156237
+2019-07-25 16:36:18,627 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Email Id-rtoit@mobiotics.com
+2019-07-25 16:36:18,711 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Set Top Box--20138150094170
+2019-07-25 16:37:01,067 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 16:37:38,725 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 16:37:44,333 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 16:37:55,145 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 16:38:05,694 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 16:38:11,338 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 16:38:16,847 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 16:38:16,848 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 16:38:17,471 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 16:38:17,995 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 16:38:18,560 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 16:38:18,561 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 16:38:25,463 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - LCO Name--Shree Sai Cable Video Network Swo
+2019-07-25 16:38:25,561 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Base Pack Expiry Date--07-09-2019
+2019-07-25 16:38:25,671 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Can Number Details--26312843
+2019-07-25 16:38:25,763 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Mobile Number--9038156237
+2019-07-25 16:38:25,842 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Email Id-rtoit@mobiotics.com
+2019-07-25 16:38:25,938 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Set Top Box--20138150094170
+2019-07-25 16:38:45,543 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Email Id successfully updated
+2019-07-25 17:02:57,387 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 17:03:24,099 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 17:03:29,720 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 17:03:40,651 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 17:03:51,408 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 17:03:57,624 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 17:04:03,876 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 17:04:03,879 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 17:04:05,657 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 17:04:06,430 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 17:04:07,732 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 17:04:07,734 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 17:04:18,452 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - LCO Name--Shree Sai Cable Video Network Swo
+2019-07-25 17:04:18,661 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Base Pack Expiry Date--07-09-2019
+2019-07-25 17:04:18,811 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Can Number Details--26312843
+2019-07-25 17:04:18,919 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Mobile Number--9038156237
+2019-07-25 17:04:19,056 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Email Id-oairo@mobiotics.com
+2019-07-25 17:04:19,178 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Set Top Box--20138150094170
+2019-07-25 17:07:32,649 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - initilizing framework
+2019-07-25 17:08:11,604 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - implicit login
+2019-07-25 17:08:17,778 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the login Btn
+2019-07-25 17:08:28,446 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the Mobile Number
+2019-07-25 17:08:39,171 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user set the password
+2019-07-25 17:08:44,905 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user clicked on the Login Btn
+2019-07-25 17:08:50,859 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - user successfully logged in
+2019-07-25 17:08:50,863 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - It's Lco customer
+2019-07-25 17:08:52,481 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - LCO Name:-
+2019-07-25 17:08:52,983 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Monthly Cost:-? 1052.03
+2019-07-25 17:08:54,080 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - Base Pack Expire on:-07-09-2019
+2019-07-25 17:08:54,081 - com.mobiotics.IMCL_Selfcare.TestCases.Tc_004_MyProfile -INFO - TimeOut:30
+2019-07-25 17:09:04,355 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - LCO Name--Shree Sai Cable Video Network Swo
+2019-07-25 17:09:04,471 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Base Pack Expiry Date--07-09-2019
+2019-07-25 17:09:04,579 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Can Number Details--26312843
+2019-07-25 17:09:04,708 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Mobile Number--9038156237
+2019-07-25 17:09:04,817 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Email Id-beeti@mobiotics.com
+2019-07-25 17:09:04,909 - com.mobiotics.IMCL_Selfcare_MyProfile.MyProfileTest -INFO - Set Top Box--20138150094170
+2019-07-30 11:48:59,005 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - initilizing framework
+2019-07-30 11:49:34,116 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - implicit login
+2019-07-30 11:49:39,991 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the login Btn
+2019-07-30 11:49:50,891 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the Mobile Number
+2019-07-30 11:50:01,297 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user set the password
+2019-07-30 11:50:06,934 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user clicked on the Login Btn
+2019-07-30 11:50:12,365 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - user successfully logged in
+2019-07-30 11:50:12,368 - com.mobiotics.IMCL_Selfcare.TestCases.TC_001_TopUpDP_Customer -INFO - It's Lco customer
